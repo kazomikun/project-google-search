@@ -20,6 +20,7 @@ input {
   color: #5b5b5b;
   border-radius: 10px;
   font-size: 14px;
+  height: inherit;
 }
 
 button {
