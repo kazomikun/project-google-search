@@ -21,11 +21,7 @@ input {
   color: #5b5b5b;
   border-radius: 10px;
   font-size: 14px;
-<<<<<<< HEAD
-  height: inherit;
-=======
   padding: 10px;
->>>>>>> parent of ebe80fd (Revert "Update styles.css")
 }
 
 button {
@@ -36,6 +32,7 @@ button {
   border-color: #1a5fd0;
   padding-top: 10px;
   margin-bottom: 10px;
+  border-radius: 5px;
 }
 
 button:hover {
