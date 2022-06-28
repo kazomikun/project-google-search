@@ -1,3 +1,27 @@
-a {
-  color: red;
+div {
+  margin: auto;
+  max-width: 100px;
+}
+
+.logo {
+  width: 150px;
+  margin-top: 100px;
+}
+
+input {
+  width: 150px;
+  margin-top: 20px;
+  border-color: #c4c4c4;
+  color: #5b5b5b;
+}
+
+button {
+  width: auto;
+  margin-top: 20px;
+  background-color: #4285f3;
+  border-color: #1a5fd0;
+}
+
+button:hover {
+  background-color: #5998ff;
 }
